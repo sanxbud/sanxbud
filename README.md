@@ -6,7 +6,7 @@ I'm a dev from Winnipeg with a background in computer science and history. I car
 
 - **Languages**: Python (Pandas), JavaScript/TypeScript (Node.js, React, Angular), Go (learning), Java, Apex
 - **Tools**: Linux, Git, SQL, Salesforce, REST APIs
-- **Interests**: backend systems, developer tools, automation, HCI, behavioural tech, digital well-being
+- **Interests**: backend systems, low-friction tools that respect your focus, automation, end-to-end HCI, behavioural tech, digital well-being, and tech for good
 
 #### Currently working on:
 
