@@ -1,5 +1,23 @@
-## Hi, I'm Sanjay! 
+## 👋 Hi, I'm Sanjay!
 
-👋 Nice to meet you! I'm a software engineer from Winnipeg - I love books, traveling, video games and hockey, and I've been glued to a screen ever since I started looking up HTML to customize my Neopets page back in elementary school.
+I'm a dev from Winnipeg with a background in computer science and history. I care about building reliable tools that make people’s lives easier, understanding the human behind the system, and always finding the joy in whatever I'm doing :)
 
-I'm a Javascript developer primarily, but I've worked extensively with **Python**, **C++**, **Java**, **React**, **SQL**, **Salesforce** and many other languages and frameworks over my years of tinkering. I love learning new stacks, and using them to build the tools and systems that solve problems and make other people's lives just a little bit easier - that's the best part about coding!
+#### What I work with:
+
+- **Languages**: Python (Pandas), JavaScript/TypeScript (Node.js, React, Angular), Go (learning), Java, Apex
+
+- **Tools**: Linux, Git, SQL, Salesforce, REST APIs
+
+- **Interests**: backend systems, developer tools, automation, HCI, behavioural tech, digital well-being
+
+#### Currently working on:
+
+- Expanding my Go knowledge by building some CLI and TUI tools 
+
+- Developing a cross-platform mobile read-later app with a focus on clean UX and quick access
+
+- Fitness challenge website based in React, Supabase, and SQLite
+
+- Constantly tinkering with my i3/tmux/nvim dotfiles and personal site!
+
+I'm always learning and always looking to expand my skillset. If you've got an idea, opportunity, or want to collab, feel free to reach out! 🙂
