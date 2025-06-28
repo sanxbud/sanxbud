@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Sanjay!
 
-I'm a dev from Winnipeg with a background in computer science and history. I care about building reliable tools that make people’s lives easier, understanding the human behind the system, and always finding the joy in whatever I'm doing :)
+I'm a dev from Winnipeg with a background in computer science and history. I care about building the tools that make people’s lives easier, understanding the human behind the system, and always finding the joy in whatever I'm doing :)
 
 #### What I work with:
 
@@ -10,9 +10,9 @@ I'm a dev from Winnipeg with a background in computer science and history. I car
 
 #### Currently working on:
 
-- Developing a cross-platform mobile read-later app with a focus on clean UX and quick access
-- Fitness challenge website based in React, Supabase, and SQLite
-- Expanding my Go knowledge by building CLI and TUI tools 
-- Constantly tinkering with my i3/tmux/nvim dotfiles and personal site!
+- developing a cross-platform mobile read-later app 
+- fitness challenge website based in React, Supabase, and SQLite
+- building some CLI and TUI tools to get better at Go
+- constantly tinkering with my i3/tmux/nvim dotfiles, lol
 
-I'm always learning and always looking to expand my skillset. If you've got an idea, opportunity, or want to collab, feel free to reach out! 🙂
+ Always looking to get better, learn cool new things, and just talk tech - so if you've got an idea, opportunity, or want to collab, reach out! 🙂
